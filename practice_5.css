@@ -2,7 +2,7 @@ body {
     background-image: url(https://github.com/greenbug61/Blue_Html_css_projects/blob/main/color.jpg?raw=true);
     background-color: lightblue; /* Fallback color */
     background-size: cover; /* Optional */
-    background-repeat: no-repeat; /* Optional */
+
     height: 100vh; /* Ensure the body takes up the full viewport height */
     margin: 0; /* Remove default margin */
 }
