@@ -1,8 +1,9 @@
 
-body{
-	    background-image: url('https://drive.google.com/uc?export=view&id=1kYbkObfyJb6Cz-1ccvHIo0c4GwqQv2b9');
-
-	}
+body {
+    background-image: url('https://drive.google.com/uc?export=view&id=1kYbkObfyJb6Cz-1ccvHIo0c4GwqQv2b9');
+    background-size: cover; /* Optional */
+    background-repeat: no-repeat; /* Optional */
+}
 #box{
 	background-color: #B6D2EF;
 	width: 900px;
