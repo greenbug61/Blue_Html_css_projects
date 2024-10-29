@@ -1,0 +1,29 @@
+<!doctype html>
+<html style="background-color:#C2C2C2">
+  <div id="into" style="background-color:#BCBCBC; width:80%; margin: auto;">
+  <head>
+   <title>Top Social Media Websites</title> 
+  </head>
+  <body style="font-size:16pt;"text-align:center;">
+   <hr style="height:2px;color:blue; border-color: blue; background-color: blue;"/>
+    <h1 style="text-align:center; color:#CB7373;">&hearts;Top Social Media Websites&hearts;</h1>
+    <p style="text-align:center;">Social media are interactive computer-mediated technologies that facilitate 
+    the creation and sharing of information, ideas, career interests and other forms of expression via virtual communities and networks.</p> 
+    <hr style="height:2px:color:blue; border-color: blue; background-color: blue;"/>
+  </div>
+  <div id="facts" style="background-color:#C25A5A; width:90%; margin: auto;"text-align:center;">
+     <hr style="height:2px;color:blue; border-color: blue; background-color: blue;"/>
+    <h2 style="text-align:center; color:#C2C2C2;" > &diams;Most Popular Social Media Websites&diams;</h2>
+<p style="text-align:center;">Listed below are the top Social Media Websites out there today.</p>
+    <a style="text-align:center; display: block:" href="https://twitter.com" target="_blank">Twitter</a>
+     <hr style="height:2px;color:blue; border-color: blue; background-color: blue;"/>
+    </div>
+      <div id="thank you" style="background-color:#BCBCBC; width:70%; margin: auto; "text-align:center;">
+          <hr style="height:2px;color:blue; border-color: blue; background color: blue;"/>  
+         <h2 style="text-align:center; color:#CB7373;" > &diams;All About My Favorite Websites&diams;</h2>
+        <p style="text-align:center;">Click the link listed below to read about my personal favorite websites.</br>
+        <a href="text-align: center; display: block:" href="https://twitter.com" target="_blank">My Favorite Websites</a></p>
+        <hr style="height:2px;color:blue; border-color: blue; background color: blue;"/>  
+    </div>
+  </body>
+</html>
